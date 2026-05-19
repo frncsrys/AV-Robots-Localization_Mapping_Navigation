@@ -197,12 +197,18 @@ Vehicle
 
 ---
 
-## Authors
+## Authors (AV Robots: Robot Localization, Mapping & Navigation Using a Monocular RGB Camera)
 
 - Jesse Rey D. Isidro
 - Jericho S. Lampano
 - Alexis J.V.R. Magno
 - Francis Albert M. Reyes
+
+## Other Authors (AV-Robots Distance Detection)
+- John Paul B. Baroña
+- Andrei Miguel A. David
+- Paul Christian M. Mandap
+- Carl Joshua D. Ricafrente
 
 **Institution:** College of Computer Studies, Technological Institute of the Philippines – Manila  
 **Adviser:** Dr. Jheanel E. Estrada
